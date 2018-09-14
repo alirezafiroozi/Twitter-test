@@ -1,0 +1,10 @@
+/Users/evan/Projects/Easy-Twitter-Post/obj/x86/Debug/Easy-Twitter-Post.csproj.CoreCompileInputs.cache
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/Easy-Twitter-Post.exe
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/Easy-Twitter-Post.pdb
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/System.Net.Http.dll
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/evan/Projects/Easy-Twitter-Post/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/evan/Projects/Easy-Twitter-Post/obj/x86/Debug/Easy-Twitter-Post.exe
+/Users/evan/Projects/Easy-Twitter-Post/obj/x86/Debug/Easy-Twitter-Post.pdb
